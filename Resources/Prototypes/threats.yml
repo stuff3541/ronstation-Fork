@@ -9,6 +9,7 @@
     DerelictCyborg: 1
     AnomalySpawn: 0.3
     Loneops: 0.2
+    SpiderSpawn: 0.5
 
 - type: ninjaHackingThreat
   id: Dragon
@@ -44,3 +45,8 @@
   id: Loneops
   announcement: terror-loneops
   rule: LoneOpsSpawn
+
+- type: ninjaHackingThreat
+  id: SpiderSpawn
+  announcement: terror-SpiderSpawn
+  rule: SpiderSpawn
