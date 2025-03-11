@@ -5,9 +5,10 @@
     Dragon: 1
     Revenant: 1
     KingRatMigration: 1
-    Wizard: 1
+    Wizard: 0.2
     DerelictCyborg: 1
-    AnomalySpawn: 1
+    AnomalySpawn: 0.3
+    Loneops: 0.2
 
 - type: ninjaHackingThreat
   id: Dragon
@@ -38,3 +39,8 @@
   id: AnomalySpawn
   announcement: terror-anomaly
   rule: AnomalySpawn
+
+- type: ninjaHackingThreat
+  id: Loneops
+  announcement: terror-loneops
+  rule: LoneOpsSpawn
