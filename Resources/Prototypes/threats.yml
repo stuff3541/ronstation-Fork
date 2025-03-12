@@ -3,13 +3,13 @@
   id: NinjaThreats
   weights:
     Dragon: 1
-    Revenant: 1
+    Revenant: 0.5
     KingRatMigration: 1
     Wizard: 0.2
     DerelictCyborg: 1
     AnomalySpawn: 0.3
     Loneops: 0.2
-    SpiderSpawn: 0.5
+    SpiderSpawn: 1
 
 - type: ninjaHackingThreat
   id: Dragon
