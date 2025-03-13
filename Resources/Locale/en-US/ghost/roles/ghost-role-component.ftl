@@ -209,7 +209,7 @@ ghost-role-information-BreadDog-name = BreadDog
 ghost-role-information-BreadDog-description = You are the chef's favorite child. You're a living bread dog.
 
 ghost-role-information-space-ninja-name = Space Ninja
-ghost-role-information-space-ninja-description = Use stealth and deception to sabotage the station. Do not kill unless something blocks your path.
+ghost-role-information-space-ninja-description = Use stealth and deception to sabotage the station. You are not here to kill only to sabotage.
 
 ghost-role-information-syndicate-reinforcement-name = Syndicate Agent
 ghost-role-information-syndicate-reinforcement-description = Someone needs reinforcements. You, the first person the syndicate could find, will help them.
